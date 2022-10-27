@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá! Seja bem-vindo!  Eu sou Keyla Delpupo !	:butterfly: 
 
-<!--
-**KeylaDelpupo/keylaDelpupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 👨‍🎓Atualmente faço o  Curso de  Full Stack Develop, na Instituição Digital House.
+#### :seedling:Formada em Agronomia.
+-:nerd_face: Estou aprendendo,lógica de programação, Html, Css, JavaScript front, Node,Express,Banco de dados, Api, React,inglês.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##### :blossom: Curiosidades: Amo viajar,pescar,tocar ukulele,buscar novos conhecimentos além de conhecer pessoas engajadas a criar um mundo melhor.
+
+![borboleta](https://user-images.githubusercontent.com/107070197/198272293-daa599bc-8c35-4309-b405-8fbf23d1dd0c.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 -->
