@@ -2,10 +2,11 @@
 
 
 #### 👨‍🎓Desenvolvedor FullStack , na Instituição Digital House.
-#### :seedling:Formada em Agronomia.
-Html, Css, JavaScript, Node,Express,Banco de dados, Api, React,inglês.
+Tenho conhecimento em Html, Css, JavaScript, Node,Express,Banco de dados, Api, React.
 
-##### :blossom: Curiosidades: Amo viajar,pescar,tocar ukulele,buscar novos conhecimentos além de conhecer pessoas engajadas a criar um mundo melhor.
+
+
+
 
 
 
